@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "GetWFHStrategy",
+      "slots": [
+        {
+          "name": "Problem",
+          "type": "WFH_Problems"
+        }
+      ]
+    },
+    {
+      "intent": "GetNextEventIntent",
+      "slots": [
+      ]
+    },
+    {
+      "intent": "DontKnowIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
+

@@ -1,0 +1,20 @@
+GetWFHStrategy how can I deal with {Problem}
+GetWFHStrategy how can I {Problem}
+GetWFHStrategy {Problem}
+GetWFHStrategy what can I do about {Problem}
+GetWFHStrategy get advice on dealing with {Problem}
+GetWFHStrategy get help with {Problem}
+GetWFHStrategy get me some ideas for dealing with {Problem}
+GetWFHStrategy give me a strategy for dealing with {Problem}
+GetWFHStrategy tell me a good way to handle {Problem}
+
+GetNextEventIntent more information
+GetNextEventIntent more
+
+DontKnowIntent i don't know about that problem, let me find other resources to help you. 
+DontKnowIntent don't know but I can find other resources for you.
+DontKnowIntent skip
+DontKnowIntent i don't know that but I am happy to find out more for you.
+DontKnowIntent i don't know about this problem but I can research it for you.
+DontKnowIntent i don't know that one, I'll find out how other people deal with that.
+
